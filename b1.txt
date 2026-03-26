@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dcndcnscos
+=======
+modifed b1
+>>>>>>> fist

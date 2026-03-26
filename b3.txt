@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ornoin
+=======
+modifiedb3
+>>>>>>> fist
