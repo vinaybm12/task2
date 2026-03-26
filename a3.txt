@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 lkadndccsncson
-=======
 modifiedd a3
->>>>>>> fist
+

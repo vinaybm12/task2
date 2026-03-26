@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 ldsoicnsdocnsodcnsoddnc
-=======
 modifieda2
->>>>>>> fist
+
